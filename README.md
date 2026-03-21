@@ -33,6 +33,7 @@ Together, these skills position me to work effectively in environments where **d
 ## 🚀 Currently Learning
 
 > Power BI Fundamentals - Coursera
+> 
 > Introduction to Programming with Python - edX 
 
 
