@@ -16,6 +16,7 @@ A curated collection of professional certifications spanning data analytics, cli
 | [Research Ethics Evaluation] | Applied research ethics |
 | [SQL Fundamentals for Data Analysts] | Database querying & data analysis |
 | [Work Smarter with Microsoft Excel] | Spreadsheet productivity & analysis |
+| [Introduction to DHIS2] | District Health Information Software Fundamentals |
 
 ---
 
