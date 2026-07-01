@@ -41,4 +41,4 @@ Together, these skills position me to work effectively in environments where **d
 
 ---
 
-*Last updated: May 2026*
+*Last updated: July 2026*
