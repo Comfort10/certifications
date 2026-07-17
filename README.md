@@ -8,16 +8,16 @@ A curated collection of professional certifications spanning data analytics, cli
 
 | Certificate | Focus Area |
 |-------------|------------|
-| [Creating Compelling Reports] | Data visualization & reporting |
-| [ICH-GCP E6 R2]| Good Clinical Practice guidelines |
-| [Informed Consent] | Ethical standards in research |
-| [Introduction to Research Ethics] | Foundations of research ethics |
-| [Program Design & Evaluation for Health Systems] | Health program planning & evaluation |
-| [Research Ethics Evaluation] | Applied research ethics |
-| [SQL Fundamentals for Data Analysts] | Database querying & data analysis |
-| [Work Smarter with Microsoft Excel] | Spreadsheet productivity & analysis |
-| [Introduction to DHIS2] | District Health Information Software Fundamentals |
-| [Excelerate Internships] | Data Analysis, Global Learning Innovation Associate, Digital Marketing, Data Visualization Associate |
+| Creating Compelling Reports | Data visualization & reporting |
+| ICH-GCP E6 R2| Good Clinical Practice guidelines |
+| Informed Consent | Ethical standards in research |
+| Introduction to Research Ethics | Foundations of research ethics |
+| Program Design & Evaluation for Health Systems | Health program planning & evaluation |
+| Research Ethics Evaluation]| Applied research ethics |
+| SQL Fundamentals for Data Analysts | Database querying & data analysis |
+| Work Smarter with Microsoft Excel | Spreadsheet productivity & analysis |
+| Introduction to DHIS2 | District Health Information Software Fundamentals |
+| Excelerate Internships | Data Analysis, Global Learning Innovation Associate, Digital Marketing, Data Visualization Associate |
 
 ---
 
