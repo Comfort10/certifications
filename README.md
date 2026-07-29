@@ -13,7 +13,7 @@ A curated collection of professional certifications spanning data analytics, cli
 | Informed Consent | Ethical standards in research |
 | Introduction to Research Ethics | Foundations of research ethics |
 | Program Design & Evaluation for Health Systems | Health program planning & evaluation |
-| Research Ethics Evaluation]| Applied research ethics |
+| Research Ethics Evaluation| Applied research ethics |
 | SQL Fundamentals for Data Analysts | Database querying & data analysis |
 | Power BI Fundamentals | Data visualization & reporting |
 | Work Smarter with Microsoft Excel | Spreadsheet productivity & analysis |
