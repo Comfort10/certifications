@@ -27,9 +27,7 @@ A curated collection of professional certifications spanning data analytics, cli
 This repository serves as a verified record of my continuous professional development. My learning path reflects two complementary pillars:
 
 - **Data & Analytics** — SQL, Excel, Python, Power BI and data reporting skills that enable evidence-based insights
-- **Research & Health Ethics** — GCP compliance, informed consent, data management and ethical evaluation frameworks essential in clinical and public health contexts
-
-Together, these skills position me to work effectively in environments where **data integrity and ethical rigour** are equally important — such as clinical research, health informatics, and program evaluation.
+- **Research** — GCP compliance, informed consent, data management and ethical evaluation frameworks essential in clinical and public health contexts
 
 ---
 
