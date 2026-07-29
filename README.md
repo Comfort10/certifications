@@ -15,6 +15,7 @@ A curated collection of professional certifications spanning data analytics, cli
 | Program Design & Evaluation for Health Systems | Health program planning & evaluation |
 | Research Ethics Evaluation]| Applied research ethics |
 | SQL Fundamentals for Data Analysts | Database querying & data analysis |
+| Power BI Fundamentals | Data visualization & reporting |
 | Work Smarter with Microsoft Excel | Spreadsheet productivity & analysis |
 | Introduction to DHIS2 | District Health Information Software Fundamentals |
 | Excelerate Internships | Data Analysis, Global Learning Innovation Associate, Digital Marketing, Data Visualization Associate |
